@@ -1,0 +1,7 @@
+{
+  "name": "Waterline.Editor",
+  "rootNamespace": "Waterline.Editor",
+  "references": ["Waterline.Core", "Waterline.Runtime", "Unity.RenderPipelines.Universal.Runtime", "Unity.RenderPipelines.Core.Runtime"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}

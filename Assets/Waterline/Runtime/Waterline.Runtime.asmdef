@@ -1,0 +1,6 @@
+{
+  "name": "Waterline.Runtime",
+  "rootNamespace": "Waterline",
+  "references": ["Waterline.Core", "Unity.InputSystem"],
+  "autoReferenced": true
+}

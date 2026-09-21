@@ -1,0 +1,6 @@
+{
+  "name": "Waterline.Core",
+  "rootNamespace": "Waterline.Core",
+  "noEngineReferences": true,
+  "autoReferenced": true
+}
